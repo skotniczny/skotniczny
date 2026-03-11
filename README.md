@@ -2,6 +2,7 @@
 Portfolio page
 
 ## Projekty
+- ✨ [world-cup-2026](https://github.com/skotniczny/world-cup-2026)
 - ✨ [mapa](https://github.com/skotniczny/mapa)
 - ✨ [matma](https://github.com/skotniczny/matma)
 - ✨ [PEKA](https://skotniczny.github.io/peka/)
